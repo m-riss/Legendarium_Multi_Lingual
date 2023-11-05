@@ -13,4 +13,12 @@ Todas las versiones de idiomas que no sean el inglés se escribirán en Rust y d
 
 French:
 
+Il s'agit d'une version du légendaire de Tolkien avec plusieurs langues à l'esprit.
+
+Chaque version linguistique autre que l'anglais sera écrite en Rust et sera supprimée de la liste des langues de Google Translate, car cela devrait être plus que suffisant pour la plupart des personnes qui consultent réellement ce document.
+
 German:
+
+Dies ist eine Version von Tolkiens Legendarium für mehrere Sprachen.
+
+Jede andere Sprachversion als Englisch wird in Rust geschrieben und aus der Google Translate-Liste der Sprachen gestrichen, da dies für die meisten Leute, die sich dies tatsächlich ansehen, mehr als ausreichend sein sollte.
