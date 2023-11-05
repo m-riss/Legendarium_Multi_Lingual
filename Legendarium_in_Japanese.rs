@@ -104,15 +104,50 @@ println!("第 9 章: 灰色の天国");
 println!("付録");
 println!("あ");
 println!("王と統治者の年代記");
+println!("1: ヌーメノールの王たち");
+println!("(1) ヌメノール");
+println!("(2) 亡命中の王国");
+println!("(3) エリアドール、アルノール、そしてイシルドゥアの後継者");
+println!("(4) ゴンドールとアナリオンの後継者たち");
+println!("(5) ここはアラゴルンとアルウェンの物語の一部です");
+println!("2: エオルの家");
+println!("3: ドゥリンズフォーク");
+println!("以下は、レッドブックの最後のメモの 1 つです。");
+println!("B");
+println!("何年もの物語");
+println!("(ウェストランドの年表)");
+println!("第二の時代");
+println!("第三の時代");
+println!("C");
+println!("家系図");
+println!("D");
+println!("カレンダー");
+println!("一年中使えるシャイアカレンダー");
+println!("カレンダー");
+println!("E");
+println!("書き方と綴り");
+println!("1: 単語と名前の発音");
+println!("2: 書く");
+println!("F");
+println!("1: 第三紀の言語と民族");
+println!("2: 翻訳について");
+println!("インデックス");
+println!("1: 歌と詩");
+println!("2: 人、獣、怪物");
+println!("3: 場所");
+println!("4: 物");
+println!("----------------------------------------------");
+println!("序文");
+
+
+
+
+
+
 
 /*
 
 */
-
-/*
-
-*/
-
 println!("出口？");
 io::stdin().read_line(&mut Exit);
 }
