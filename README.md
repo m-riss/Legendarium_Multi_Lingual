@@ -22,3 +22,9 @@ German:
 Dies ist eine Version von Tolkiens Legendarium für mehrere Sprachen.
 
 Jede andere Sprachversion als Englisch wird in Rust geschrieben und aus der Google Translate-Liste der Sprachen gestrichen, da dies für die meisten Leute, die sich dies tatsächlich ansehen, mehr als ausreichend sein sollte.
+
+Japanese:
+
+Chinese (Traditional):
+
+Chinese (Simplified):
