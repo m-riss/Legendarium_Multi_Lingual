@@ -9,7 +9,7 @@ using std::string;
 int main() {
 int Exit_Variable = 0;
 
-//787 bytes
+
 string Afrikaans_Specific_Source_Code_Link_ID = "";
 string Albanian_Specific_Source_Code_Link_ID = "";
 string Japanese_Specific_Source_Code_Link_ID = "";
