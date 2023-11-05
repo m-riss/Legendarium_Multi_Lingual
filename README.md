@@ -1,5 +1,5 @@
 # Legendarium_Multi_Lingual
-United States English:
+English:
 
 A version of Tolkien's legendarium with multiple languages in mind.
 
