@@ -11,13 +11,13 @@ Esta es una versión del legendarium de Tolkien con varios idiomas en mente.
 
 Todas las versiones de idiomas que no sean el inglés se escribirán en Rust y desaparecerán de la lista de idiomas de Google Translate, ya que eso debería ser más que suficiente para la mayoría de las personas que realmente miran esto.
 
-French (France):
+French (Français):
 
 Il s'agit d'une version du légendaire de Tolkien avec plusieurs langues à l'esprit.
 
 Chaque version linguistique autre que l'anglais sera écrite en Rust et sera supprimée de la liste des langues de Google Translate, car cela devrait être plus que suffisant pour la plupart des personnes qui consultent réellement ce document.
 
-German (Deutschland):
+German (Deutsch):
 
 Dies ist eine Version von Tolkiens Legendarium für mehrere Sprachen.
 
