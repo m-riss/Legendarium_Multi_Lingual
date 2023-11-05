@@ -3,7 +3,8 @@ use std::io;
 fn main() {
 let mut Exit = String::new();
 
-println!("J. R. R. Tolkien - Die Here van die ringe. (1/4)");
+println!("J. R. R. Tolkien - Die Here van die ringe.");
+println!("Een van vier");
 println!("-----------------------------------------------");
 println!("DIE HERE VAN DIE RINGE");
 println!("deur");
@@ -23,11 +24,11 @@ println!("Een Ring om hulle almal te bring en in die duisternis bind hulle,");
 println!("In die land van Mordor waar die skaduwees lê.");
 println!("INHOUD");
 println!("VOORWOORD");
-println!("PROLOGUE");
-println!("1. Betreffende Hobbits");
-println!("2. Met betrekking tot pyp-onkruid");
-println!("3. Van die Orde van die Shire");
-println!("4. Van die Bevinding van die Ring");
+println!("VOORWOORD (PROLOGUE)");
+println!("Een: Oor Hobbits");
+println!("Twee: Met betrekking tot pyp-onkruid");
+println!("Drie: Van die Orde van die Shire");
+println!("Vier: Van die vind van die ring");
 println!("Nota op die Shire-rekords");
 println!("DIE GEMEENSKAP VAN DIE RING");
 println!("Boek Een:");
