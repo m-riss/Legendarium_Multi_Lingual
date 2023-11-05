@@ -23,19 +23,19 @@ Dies ist eine Version von Tolkiens Legendarium für mehrere Sprachen.
 
 Jede andere Sprachversion als Englisch wird in Rust geschrieben und aus der Google Translate-Liste der Sprachen gestrichen, da dies für die meisten Leute, die sich dies tatsächlich ansehen, mehr als ausreichend sein sollte.
 
-Japanese:
+Japanese (日本語):
 
 これは、複数の言語を念頭に置いたトールキンの伝説のバージョンです。
 
 英語以外のすべての言語バージョンは Rust で書かれ、実際にこれを見ているほとんどの人にとっては十分すぎるはずなので、Google 翻訳の言語リストから外されることになります。
 
-Chinese (Simplified):
+Simplified Chinese (简体中文):
 
 这是托尔金传奇故事的一个版本，考虑了多种语言。
 
 除英语之外的所有语言版本都将用 Rust 编写，并且将从 Google 翻译语言列表中删除，因为这对于大多数实际关注此内容的人来说应该足够了。
 
-Chinese (Traditional):
+Traditional Chinese:
 
 這是托爾金傳奇故事的一個版本，考慮了多種語言。
 
