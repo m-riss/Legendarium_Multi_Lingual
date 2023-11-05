@@ -15,7 +15,8 @@ string afrikaans = "";
 string Albanian = "";
 string albanian = "";
 
-
+string Japanese = "";
+string japanese = "";
 
 
 string Language_Selection = "";
@@ -24,6 +25,10 @@ string Colon = "";
 
 Afrikaans = "Afrikaans";
 afrikaans = "afrikaans";
+Albanian = "Albanian";
+albanian = "albanian";
+Japanese = "Japanese";
+japanese = "japanese";
 
 QuestionMark = "?";
 Colon = ":";
@@ -33,17 +38,23 @@ cin >> Language_Selection;
 
 if (Language_Selection == Afrikaans) {
 cout << "You Can Download the Afrikaans Version of Tolkien's Legendarium At This Link" << Colon << endl;
-cout << "https://tinyurl.com/bddnx59t" << endl;
+cout << "https://tinyurl.com/4kmzpppk" << endl;
 }
 
 if (Language_Selection == afrikaans) {
 cout << "You Can Download the Afrikaans Version of Tolkien's Legendarium At This Link" << Colon << endl;
-cout << "https://tinyurl.com/bddnx59t" << endl;
+cout << "https://tinyurl.com/4kmzpppk" << endl;
 }
 
+if (Language_Selection == Albanian) {
+cout << "You Can Download the Albanian Version of Tolkien's Legendarium At This Link" << Colon << endl;
+cout << "https://tinyurl.com/5h4y6et3" << endl;
+}
 
-
-
+if (Language_Selection == albanian) {
+cout << "You Can Download the Albanian Version of Tolkien's Legendarium At This Link" << Colon << endl;
+cout << "https://tinyurl.com/5h4y6et3" << endl;
+}
 
 
 
