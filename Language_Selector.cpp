@@ -50,12 +50,12 @@ cout << "https://tinyurl.com/yc26v6u6" << endl;
 
 if (Language_Selection == Albanian) {
 cout << "You Can Download the Albanian Version of Tolkien's Legendarium At This Link" << Colon << endl;
-cout << "https://tinyurl.com/5h4y6et3" << endl;
+cout << "https://tinyurl.com/mr2wzwzh" << endl;
 }
 
 if (Language_Selection == albanian) {
 cout << "You Can Download the Albanian Version of Tolkien's Legendarium At This Link" << Colon << endl;
-cout << "https://tinyurl.com/5h4y6et3" << endl;
+cout << "https://tinyurl.com/mr2wzwzh" << endl;
 }
 
 
