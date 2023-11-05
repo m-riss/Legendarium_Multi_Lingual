@@ -78,6 +78,97 @@ println!("Hoofstuk Sewe Reis na die Kruispad");
 println!("Hoofstuk Agt Die trappe van Cirith Ungol");
 println!("Hoofstuk Nege Shelob's Lair");
 println!("Hoofstuk Tien Die Keuses van Meester Samwise");
+println!("DIE TERUGKEER VAN DIE KONING");
+println!("Boek Vyf:");
+println!("Hoofstuk Een: Minas Tirith");
+println!("Hoofstuk Twee: Die heengaan van die Grey Company");
+println!("Hoofstuk Drie: Die Samestelling van Rohan");
+println!("Hoofstuk Vier: Die beleg van Gondor");
+println!("Hoofstuk Vyf: Die rit van die Rohirrim");
+println!("Hoofstuk Ses: Die Slag van die Pelennor-velde");
+println!("Hoofstuk Sewe: Die brandstapel van Denethor");
+println!("Hoofstuk Agt: Die Huise van Genesing");
+println!("Hoofstuk Nege: Die laaste debat");
+println!("Hoofstuk Tien: Die Swart Hek gaan oop");
+println!("Boek Ses:");
+println!("Hoofstuk Een: Die toring van Cirith Ungol");
+println!("Hoofstuk Twee: Die land van skaduwee");
+println!("Hoofstuk Drie: Mount Doom");
+println!("Hoofstuk Vier: Die veld van Cormallen");
+println!("Hoofstuk Vyf: Die Rentmeester en die Koning");
+println!("Hoofstuk Ses: Baie Afskeidings");
+println!("Hoofstuk Sewe: Huistoe");
+println!("Hoofstuk Agt: Die skuur van die graafskap");
+println!("Hoofstuk Nege: Die Grey Havens");
+println!("BYLAE");
+println!("A:");
+println!("ANNALE VAN DIE KONINGS EN HEERSERS");
+println!("Een: Die Númenorean Kings");
+println!("(Een) Númenor");
+println!("(Twee) Die ryke in ballingskap");
+println!("(Drie) Eriador, Arnor en die erfgename van Isildur");
+println!("(Vier) Gondor en die erfgename van Anñrion");
+println!("(Vyf) Hier volg 'n deel van die verhaal van Aragorn en Arwen");
+println!("Twee: DIE HUIS VAN EORL");
+println!("Drie: DURIN SE VOLK");
+println!("Hier volg een van die laaste notas in die Rooi Boek");
+println!("B:");
+println!("DIE VERHAAL VAN JARE");
+println!("(CHRONOLOGIE VAN DIE WESTLAND)");
+println!("The Second Age");
+println!("The Third Age");
+println!("C:");
+println!("FAMILIEBOME");
+println!("D:");
+println!("KALENDERS");
+println!("SHIRE KALENDER VIR GEBRUIK IN ALLE JARE");
+println!("DIE KALENDERS");
+println!("E:");
+println!("SKRYF EN SPEL");
+println!("Een: Uitspraak van woorde en name");
+println!("Twee: Skryf");
+println!("F:");
+println!("Een: Die tale en volke van die derde eeu");
+println!("Twee: Op Vertaling");
+println!("INDEKSE");
+println!("Een: liedere en verse");
+println!("Twee: Persone, Diere en Monsters");
+println!("Drie: Plekke");
+println!("Vier: Dinge");
+println!("----------------------------------------------");
+println!("VOORWOORD");
+println!("Hierdie boek is grootliks gemoeid met Hobbits, en op sy bladsye kan 'n leser baie van hul karakter en 'n bietjie van hul geskiedenis ontdek.");
+println!("Verdere inligting sal ook gevind word in die keuse uit die Rooi Boek van Westmarch wat reeds gepubliseer is, onder die titel The Hobbit.");
+println!("Daardie verhaal is afgelei van die vroeëre hoofstukke van die Rooi Boek, saamgestel deur Bilbo self,");
+println!("die eerste Hobbit wat in die algemeen bekend geword het in die wêreld, en deur hom Daar en Terug genoem,");
+println!("aangesien hulle vertel het van sy reis na die Ooste en sy terugkeer:");
+println!("'n avontuur wat later al die Hobbits betrek het by die groot gebeurtenisse van daardie Tydperk wat hier verwant is.");
+println!("Baie wil egter van die begin af meer oor hierdie merkwaardige mense wil weet, terwyl sommige dalk nie die vroeëre boek besit nie.");
+println!("Vir sulke lesers word hier 'n paar aantekeninge oor die meer belangrike punte uit Hobbit-lore versamel, en die eerste avontuur word kortliks herroep.");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
