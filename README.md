@@ -35,13 +35,13 @@ Simplified Chinese (简体中文):
 
 除英语之外的所有语言版本都将用 Rust 编写，并且将从 Google 翻译语言列表中删除，因为这对于大多数实际关注此内容的人来说应该足够了。
 
-Traditional Chinese:
+Traditional Chinese (繁體中文):
 
 這是托爾金傳奇故事的一個版本，考慮了多種語言。
 
 除英語之外的所有語言版本都將用 Rust 編寫，並且將從 Google 翻譯語言列表中刪除，因為這對於大多數實際關注此內容的人來說應該足夠了。
 
-Korean:
+Korean (한국인):
 
 이것은 여러 언어를 염두에 두고 있는 Tolkien의 전설관 버전입니다.
 
