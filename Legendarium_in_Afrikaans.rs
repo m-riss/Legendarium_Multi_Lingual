@@ -67,7 +67,17 @@ println!("Hoofstuk Agt Die pad na Isengard");
 println!("Hoofstuk Nege Flotsam en Jetsam");
 println!("Hoofstuk Tien Die Stem van Saruman");
 println!("Hoofstuk Elf Die Palantir");
-
+println!("Boek Vier:");
+println!("Hoofstuk Een Die teem van Sméagol");
+println!("Hoofstuk Twee Die deurgang van die moerasse");
+println!("Hoofstuk Drie Die Swart Hek is Gesluit");
+println!("Hoofstuk Vier Van Kruie en Gestoofde Konyn");
+println!("Hoofstuk Vyf Die Venster op die Weste");
+println!("Hoofstuk Ses Die Verbode Poel");
+println!("Hoofstuk Sewe Reis na die Kruispad");
+println!("Hoofstuk Agt Die trappe van Cirith Ungol");
+println!("Hoofstuk Nege Shelob's Lair");
+println!("Hoofstuk Tien Die Keuses van Meester Samwise");
 
 
 
