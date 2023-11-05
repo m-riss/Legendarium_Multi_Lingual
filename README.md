@@ -25,6 +25,10 @@ Jede andere Sprachversion als Englisch wird in Rust geschrieben und aus der Goog
 
 Japanese:
 
+これは、複数の言語を念頭に置いたトールキンの伝説のバージョンです。
+
+英語以外のすべての言語バージョンは Rust で書かれ、実際にこれを見ているほとんどの人にとっては十分すぎるはずなので、Google 翻訳の言語リストから外されることになります。
+
 Chinese (Traditional):
 
 Chinese (Simplified):
